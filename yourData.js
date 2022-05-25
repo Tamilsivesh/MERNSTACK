@@ -3,17 +3,14 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Tamil selvan",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm Tamil selvan - curious designer and devloper based in New Delhi, India. ",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    { title: "Github", link: "https://github.com/Tamilsivesh" },
+    { title: "Email", link: "mailto:hello@tamilselvan.ad21@bitsathy.ac.in" },
   ],
 
   // End Header Details -----------------------
